@@ -7,7 +7,7 @@ pipeline {
 
     stage('Code Quality') {
       steps {
-         echo 'Code Quality'
+         log.info 'Code Quality'
       }
     }
 

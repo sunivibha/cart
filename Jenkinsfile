@@ -1,3 +1,2 @@
 @Library('roboshop')
-
-log()
+nodejs()
